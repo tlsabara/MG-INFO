@@ -1,0 +1,33 @@
+# Meus imports
+import pandas as pd
+import itertools
+
+# Cópia rasa para o wf
+df = dataset[['hskill_type2']].copy()
+
+# lista para coletar os dados
+altlist = []
+
+# Coleta dos dados
+dataset = df['hskill_type2'].apply(lambda x: altlist.append(str(x).split(',')))
+del(df)
+
+# Rasteirizando a lista coletada
+altlist = list(itertools.chain.from_iterable(altlist))
+
+# Criando o DF
+dataset = pd.DataFrame(altlist)
+
+# Mantendo apenas um
+dataset = pd.DataFrame(dataset[0].unique())
+
+===================================
+
+import sqlite3
+import pandas as pd
+
+db_file = '//wsl$/Ubuntu-20.04/home/tluca/git_unix/MG-INFO/api_data/thiago_data.sqlite'
+
+conn = sqlite3.connect(db_file)
+
+dataset = pd.read_sql_query("SELECT * FROM experiences", conn)
