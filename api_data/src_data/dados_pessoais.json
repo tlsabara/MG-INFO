@@ -48,5 +48,50 @@
     "pdata_name": "FOTO_PERFIL",
     "pdata_description": "Minha Foto",
     "pdata_value": "https://media.licdn.com/dms/image/D4D03AQHjprIP0yA_lQ/profile-displayphoto-shrink_200_200/0/1682626776160?e=1688601600&v=beta&t=EoIIDcB1uner_wbRlqL2oABnSTPs32MQWf8HHA6XQdQ"
+  },
+  {
+    "pdata_name": "DESTAQUE1",
+    "pdata_description": "Uma Frase de destaque",
+    "pdata_value": "Recentemente conquistei a certificação Microsoft Azure. E atualmente me preparo para a certificação Microsoft 'DP-203: Data Enginnering'."
+  },
+  {
+    "pdata_name": "OBJETIVO_ATUAL",
+    "pdata_description": "Uma Frase de destaque",
+    "pdata_value": "Apesar da minha experiencia e senioridade em Infraestrutura de TI e Redes, no momento estou em transição de carreira. Direcionando todo o meu conhecimento para a área de Dados. Sendo meu objetivo final me tornar um Cientista de Dados."
+  },
+  {
+    "pdata_name": "DESCRICAO_PROFISSIONAL",
+    "pdata_description": "Descrição Profissional",
+    "pdata_value": "Microsoft MCP - IT Expert - Data Analyst - Data Engineer"
+  },
+  {
+    "pdata_name": "RESUMO_PROFISSIONAL",
+    "pdata_description": "Resumo Profissional",
+    "pdata_value": "Mais de 10 anos de experiencia em TI. Atuei em projetos de pequenos e grandes clientes. Sempre agregando para o serviço ou solução entregue pela empresa. Algumas soluções que implementei vão desde engenharia de dados e devops à desenvolvimento de sites e planejamento de Infraestrutura, além de muita analise. Sou extremamente analítico, proativo e comprometido. Nunca fujo de um desafio. Acredito que sempre podemos aprender mais."
+  },
+  {
+    "pdata_name": "LINK_1",
+    "pdata_description": "Dashboard Operacional",
+    "pdata_value": "https://app.powerbi.com/view?r=eyJrIjoiZDM5ZTliYWQtZWM4Yy00NTRjLWI3NDMtZTZlOTYzMTY4Nzk3IiwidCI6ImI1MTEzZThjLTgyMGItNGM1My1iZjc0LTRjNzc4N2RkMDFlYSJ9&pageName=ReportSection"
+  },
+  {
+    "pdata_name": "LINK_2",
+    "pdata_description": "Dashboard Comercial",
+    "pdata_value": "https://app.powerbi.com/view?r=eyJrIjoiZDM1MWZmOTUtYTU2MS00ZWE0LTkwNzUtYWEwZmUyOWJmY2FlIiwidCI6ImI1MTEzZThjLTgyMGItNGM1My1iZjc0LTRjNzc4N2RkMDFlYSJ9&pageName=ReportSectiond0392f25cb227b3bad90"
+  },
+  {
+    "pdata_name": "LINK_3",
+    "pdata_description": "Lib no Pypi",
+    "pdata_value": "https://pypi.org/project/treglog/"
+  },
+  {
+    "pdata_name": "LINK_4",
+    "pdata_description": "Deafio 100 dias de dados",
+    "pdata_value": "https://github.com/tlsabara/100-days-of-code-data-engineer"
+  },
+  {
+    "pdata_name": "LINK_5",
+    "pdata_description": "Certificação Microsoft",
+    "pdata_value": "https://github.com/tlsabara/100-days-of-code-data-engineer"
   }
 ]

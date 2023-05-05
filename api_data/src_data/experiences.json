@@ -5,7 +5,8 @@
     "exp_company_name": "Emcash Tecnologia",
     "exp_company_role": "Administrador de TI",
     "exp_description": "Gerenciamento da Infraestrutura de Engenharia de Dados e de Segurança da Informação\n",
-    "exp_display": true
+    "exp_display": true,
+    "exp_tech_stack": ""
   },
   {
     "exp_ini_date": "2021-02-01",
@@ -13,7 +14,8 @@
     "exp_company_name": "i9tell",
     "exp_company_role": "Analista de infraestrutura e Dados",
     "exp_description": "Responsável por manter toda a estrutura de tecnologia da empresa. Garantindo segurança da informação, e estabilidade nos serviços e sistemas da empresa. Também atuando em toda a Gestão dos dados, Criação de Analises, desenvolvimento RPA(python) do setor de cobrança e desenvolvimento de portais para o setor de TI (Django).",
-    "exp_display": true
+    "exp_display": true,
+    "exp_tech_stack": ""
   },
   {
     "exp_ini_date": "2020-09-01",
@@ -21,7 +23,8 @@
     "exp_company_name": "Frateschi (Grupo I9tell)",
     "exp_company_role": "Analista de MIS",
     "exp_description": "...",
-    "exp_display": true
+    "exp_display": true,
+    "exp_tech_stack": ""
   },
   {
     "exp_ini_date": "2015-09-01",
@@ -29,7 +32,8 @@
     "exp_company_name": "RMC Tecnologia",
     "exp_company_role": "Supervisor de TI",
     "exp_description": "Atendendo à empresas do ramo hoteleiro na região de Belo Horizonte e Vale do Aço. Supervisionando a equipe regional da empresa, auxiliando os técnicos em atendimentos, gestão de processos internos e dos processos do cliente, bem como a governança de TI.\n",
-    "exp_display": true
+    "exp_display": true,
+    "exp_tech_stack": ""
   },
   {
     "exp_ini_date": "2014-02-01",
@@ -37,7 +41,8 @@
     "exp_company_name": "Ind de Salgados Campos Oliveira",
     "exp_company_role": "Motorista cat:B",
     "exp_description": "Responsável pela entrega e elaboração de rotas.",
-    "exp_display": false
+    "exp_display": false,
+    "exp_tech_stack": ""
   },
   {
     "exp_ini_date": "2010-07-01",
@@ -45,6 +50,7 @@
     "exp_company_name": "Super Águra",
     "exp_company_role": "Ajudante Geral",
     "exp_description": "Auxilar no processo de distribuição e venda de água.",
-    "exp_display": false
+    "exp_display": false,
+    "exp_tech_stack": ""
   }
 ]

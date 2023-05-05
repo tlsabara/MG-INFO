@@ -1,28 +1,90 @@
 [
   {
     "hskill_name": "Python",
-    "hskill_descripion": "Linguagem de programação",
+    "hskill_descripion": "Linguagem de programação que sou apaixonado, sem duúvida minha melhor habilidade",
     "hskill_time": 4,
     "hskill_type1": "PROGRAMACAO",
     "hskill_type2": "DADOS, CLOUD"
   },
   {
     "hskill_name": "Django",
-    "hskill_descripion": "Framework para constução de sistemas Web",
+    "hskill_descripion": "Framework(Python) para constução de sistemas Web, o qual ja utilizei para vários projetos.",
     "hskill_time": 3,
     "hskill_type1": "PROGRAMACAO",
     "hskill_type2": "WEB"
   },
   {
+    "hskill_name": "MS SQL Server",
+    "hskill_descripion": "SGBD da Microsoft, meu dialéto SQL preferido. Capaz de suportar aplicações de dados extremamente robustas.",
+    "hskill_time": 5,
+    "hskill_type1": "PROGRAMACAO, INFRA",
+    "hskill_type2": "DADOS"
+  },
+  {
+    "hskill_name": "Power BI",
+    "hskill_descripion": "Ferramenta de construçao de Dashboards(Usei pra montar este aqui), alguns passos a frente dos concorrentes. ",
+    "hskill_time": 3,
+    "hskill_type1": "PROGRAMACAO",
+    "hskill_type2": "DADOS, DATAVIZ"
+  },
+  {
+    "hskill_name": "Scrapy",
+    "hskill_descripion": "Framework em Pyhton para Webscraping com paralelismo, com capacidade de extrações incríveis. Já realizei a extração de 50K de páginas de dados, em 10 min.",
+    "hskill_time": 3,
+    "hskill_type1": "PROGRAMACAO",
+    "hskill_type2": "DADOS"
+  },
+  {
+    "hskill_name": "Selenium",
+    "hskill_descripion": "Framework para automação de navegadores, utilizo em testes de sistemas web e webscraping.",
+    "hskill_time": 3,
+    "hskill_type1": "PROGRAMACAO",
+    "hskill_type2": "DADOS, WEB"
+  },
+  {
+    "hskill_name": "Pandas",
+    "hskill_descripion": "Biblioteca de Python para Análise e tratamento de dados. E responsável por parte da minha paixão por Python",
+    "hskill_time": 3,
+    "hskill_type1": "PROGRAMACAO",
+    "hskill_type2": "DADOS"
+  },
+    {
+    "hskill_name": "Seaborn",
+    "hskill_descripion": "Biblioteca de Python para Análise e criação de Gráficos. Acelera e muito o processo de análise, pois procura por relacionamento entre os dados de forma excelente.",
+    "hskill_time": 3,
+    "hskill_type1": "PROGRAMACAO",
+    "hskill_type2": "DADOS, DATAVIZ"
+  },
+  {
+    "hskill_name": "Spark ou pySpark",
+    "hskill_descripion": "Biblioteca (eu uso em Python), para tratamento e manpulação de BIG DATA em clusters (Hadoop), principal framework dos projetos de big data. Sublime quando utilizado no Databricks",
+    "hskill_time": 1,
+    "hskill_type1": "PROGRAMACAO",
+    "hskill_type2": "DADOS"
+  }, {
+    "hskill_name": "Airflow",
+    "hskill_descripion": "Outro framework em Python, excelente para pipelines e automatização de tarefas",
+    "hskill_time": 3,
+    "hskill_type1": "PROGRAMACAO",
+    "hskill_type2": "DADOS"
+  },
+  {
+    "hskill_name": "Databricks",
+    "hskill_descripion": "Analisar alto volume de dados este é o cara, sendo possível de montar pipelines de ETL/ELT se intergrado à algumas nuvens.",
+    "hskill_time": 2,
+    "hskill_type1": "PROGRAMACAO",
+    "hskill_type2": "DADOS"
+  },
+  {
     "hskill_name": "Windows NT Plataform",
-    "hskill_descripion": "Sistema Operacional de 80% do planeta",
+    "hskill_descripion": "Sistema Operacional de 80% do planeta. O qual eu tenho utilizado desde o Win98 (Sim eu usei kk)",
     "hskill_time": 8,
     "hskill_type1": "INFRA",
     "hskill_type2": "GERAL"
   },
   {
     "hskill_name": "Windows Server",
-    "hskill_descripion": "Sistema Operacional de Servidores.",
+    "hskill_descripion": "Sistema Operacional de Servidores da Microsoft. Hoje indico apenas para casos específicos. Temos outras soluçoes com custo/benefício melhor",
     "hskill_time": 8,
     "hskill_type1": "INFRA",
     "hskill_type2": "GERAL"
@@ -35,108 +97,80 @@
     "hskill_type2": "DADOS"
   },
   {
-    "hskill_name": "MS SQL Server",
-    "hskill_descripion": "SGBD da Microsoft",
-    "hskill_time": 5,
-    "hskill_type1": "PROGRAMACAO, INFRA",
-    "hskill_type2": "DADOS"
-  },
-  {
-    "hskill_name": "Pandas",
-    "hskill_descripion": "Biblioteca de Python para Análise e tratamento de dados.",
-    "hskill_time": 3,
-    "hskill_type1": "PROGRAMACAO",
-    "hskill_type2": "DADOS"
-  },
-    {
-    "hskill_name": "Seaborn",
-    "hskill_descripion": "Biblioteca de Python para Análise e criação de Gráficos",
-    "hskill_time": 3,
-    "hskill_type1": "PROGRAMACAO",
-    "hskill_type2": "DADOS, DATAVIZ"
-  },
-  {
-    "hskill_name": "Spark (pySpark)",
-    "hskill_descripion": "Biblioteca (eu uso em Python), para tratamentod e BIG DATA em clusters (Hadoop)",
-    "hskill_time": 1,
-    "hskill_type1": "PROGRAMACAO",
-    "hskill_type2": "DADOS"
-  },
-  {
     "hskill_name": "AWS",
-    "hskill_descripion": "Cloud Pública da Amazon",
+    "hskill_descripion": "Cloud Pública da Amazon, possui uma gama de serviços e soluções incriveis (Não somente para dados e infra)",
     "hskill_time": 3,
-    "hskill_type1": "INFRAESTRUTURA",
+    "hskill_type1": "INFRA",
     "hskill_type2": "CLOUD"
   },
   {
     "hskill_name": "AWS Glue",
-    "hskill_descripion": "Serviço (PaaS) da AWS para tratamento de dados, em formato Serverless",
+    "hskill_descripion": "Serviço (PaaS) da AWS para tratamento de dados, em formato Serverless. Parece bobinho mas faz mágica no processamento de dados.",
     "hskill_time": 1,
-    "hskill_type1": "INFRAESTRUTURA, PROGRAMCAO",
+    "hskill_type1": "INFRA, PROGRAMACAO",
     "hskill_type2": "DADOS, CLOUD"
   },
   {
     "hskill_name": "AWS Athena",
-    "hskill_descripion": "Serviço (PaaS) da AWS para consultas em SQL de alto volume de dados",
+    "hskill_descripion": "Serviço (PaaS) da AWS para consultas em SQL de alto volume de dados, sem falar no cuso que é mínimo.",
     "hskill_time": 1,
-    "hskill_type1": "INFRAESTRUTURA, PROGRAMCAO",
+    "hskill_type1": "INFRA, PROGRAMACAO",
     "hskill_type2": "DADOS, CLOUD"
   },
   {
     "hskill_name": "AWS RedShift",
-    "hskill_descripion": "Serviço AWS para DataWarehouses de alta performance",
+    "hskill_descripion": "Serviço AWS para DataWarehouses de alta performance, excelente mas o preço faz jus ao desempenho.",
     "hskill_time": 1,
-    "hskill_type1": "INFRAESTRUTURA, PROGRAMCAO",
+    "hskill_type1": "INFRA, PROGRAMACAO",
     "hskill_type2": "DADOS, CLOUD"
   },
   {
     "hskill_name": "AWS DMS",
-    "hskill_descripion": "Serviço AWS para coleta de dados.",
+    "hskill_descripion": "Serviço AWS para coleta e migração'o de dados. Opção objetiva para CDC em projetos de Big Data.",
     "hskill_time": 1,
-    "hskill_type1": "INFRAESTRUTURA",
+    "hskill_type1": "INFRA",
     "hskill_type2": "DADOS, CLOUD"
   },
   {
     "hskill_name": "Haddop/Hive",
-    "hskill_descripion": "Ecossistema de computação em cluster",
+    "hskill_descripion": "Ecossistema de computação e armazenamento em cluster, mantido pela Apache. Possui complementos para atender qualquer necesisdade das demanda empresariais por Big Data.",
     "hskill_time": 1,
-    "hskill_type1": "INFRAESTRUTURA, PROGRAMCAO",
+    "hskill_type1": "INFRA, PROGRAMACAO",
     "hskill_type2": "DADOS, CLOUD"
   },
   {
     "hskill_name": "Azure",
-    "hskill_descripion": "Cloud Pública da Microsoft",
+    "hskill_descripion": "Cloud Pública da Microsoft, com serviços em igualdade aos da AWS, mas possui uma excelência superior quando o assunto é Dados (por isso minhas certificações serão primeiras da Azure).",
     "hskill_time": 3,
-    "hskill_type1": "INFRAESTRUTURA",
+    "hskill_type1": "INFRA",
     "hskill_type2": "CLOUD"
   },
   {
     "hskill_name": "Docker",
-    "hskill_descripion": "Framework para orquestração de conteiners",
+    "hskill_descripion": "Framework para orquestração de conteiners, amigo inserparável na hora de desenvolver, projetos de Dados ou não.",
     "hskill_time": 3,
-    "hskill_type1": "INFRAESTRUTURA, PROGRAMCAO",
+    "hskill_type1": "INFRA, PROGRAMACAO",
     "hskill_type2": "DADOS, CLOUD"
   },
   {
     "hskill_name": "JavaScript",
-    "hskill_descripion": "Linguagem de programação.",
+    "hskill_descripion": "Linguagem de programação que não tem NADA a ver com Java. Utilizo principalmente em projetos WEB, ou em vizualizações.",
     "hskill_time": 3,
-    "hskill_type1": "PROGRAMCAO",
+    "hskill_type1": "PROGRAMACAO",
     "hskill_type2": "WEB, CLOUD, DATAVIZ"
   },
   {
     "hskill_name": "HTML",
-    "hskill_descripion": "Linguagem de programação",
+    "hskill_descripion": "Linguagem de programação WEB, foi a segunda linguagem que aprendi (C foi a primeira), importante para WEB e para Dados.",
     "hskill_time": 5,
-    "hskill_type1": "PROGRAMCAO",
-    "hskill_type2": "WEB"
+    "hskill_type1": "PROGRAMACAO",
+    "hskill_type2": "WEB, DADOS"
   },
   {
     "hskill_name": "CSS",
-    "hskill_descripion": "Linguagem de Estilos complementar ao HTML",
+    "hskill_descripion": "Linguagem de Estilos complementar ao HTML, parece bobinha mas é poderosa.",
     "hskill_time": 5,
-    "hskill_type1": "PROGRAMCAO",
+    "hskill_type1": "PROGRAMACAO",
     "hskill_type2": "WEB, DATAVIZ"
   },
   {
@@ -148,16 +182,58 @@
   },
   {
     "hskill_name": "Linux",
-    "hskill_descripion": "Conhecimento em sistmas Linux DEB",
+    "hskill_descripion": "Conhecimento em sistmas Linux DEB, maioria dos servidores da WEB usam este sitema. Leve, robusto, cutomizável e as vezes nunca tem downtime.",
     "hskill_time": 5,
     "hskill_type1": "INFRAESTRUTURA",
     "hskill_type2": "GERAL, CLOUD"
   },
   {
-    "hskill_name": "Power BI",
-    "hskill_descripion": "Ferramenta de construçao de Dashboards",
+    "hskill_name": "Nifi",
+    "hskill_descripion": "Um verdadeiro canivete suíço para engenharia de dados. Pipeline de Streaming de dados, resiliente a falhas e manutenções. ",
+    "hskill_time": 1,
+    "hskill_type1": "PROGRAMACAO, INFRA",
+    "hskill_type2": "DADOS, WEB"
+  },
+  {
+    "hskill_name": "Firewalls",
+    "hskill_descripion": "Na parte de Segurança da Informação, é uma das camadas mais importantes. Utilizo principalmente o OPNSense. ",
+    "hskill_time": 7,
+    "hskill_type1": "INFRA",
+    "hskill_type2": "CLOUD, REDES"
+  },
+  {
+    "hskill_name": "ESXi",
+    "hskill_descripion": "Sistema de Virtualização de servidores. Permite um reuso eficiente dos recursos de um servidor.",
+    "hskill_time": 5,
+    "hskill_type1": "INFRA",
+    "hskill_type2": "CLOUD, GERAL"
+  },
+  {
+    "hskill_name": "BS4 ou Beautifulsoup",
+    "hskill_descripion": "outro framework importante para à área de dados. Tirar dados de HTML é com esse carinha.",
     "hskill_time": 3,
-    "hskill_type1": "PROGRAMCAO",
-    "hskill_type2": "DADOS, DATAVIZ"
+    "hskill_type1": "PROGRAMACAO",
+    "hskill_type2": "DADOS"
+  },
+  {
+    "hskill_name": "Pacote Office",
+    "hskill_descripion": "Sem pacote Office tudo é mais complicado",
+    "hskill_time": 10,
+    "hskill_type1": "PROGRAMACAO",
+    "hskill_type2": "GERAL"
+  },
+  {
+    "hskill_name": "Azure Devops",
+    "hskill_descripion": "Serviço Azure para gerenciamento e monitoramento de projetos de Desenvolvimento.",
+    "hskill_time": 2,
+    "hskill_type1": "PROGRAMACAO",
+    "hskill_type2": "GERAL"
+  },
+  {
+    "hskill_name": "Git",
+    "hskill_descripion": "Não se desenvolve sem uma ferramenta de versionamento. No meu caso a principal é o Github.",
+    "hskill_time": 5,
+    "hskill_type1": "PROGRAMACAO",
+    "hskill_type2": "DADOS, WEB"
   }
 ]
