@@ -1,0 +1,163 @@
+[
+  {
+    "hskill_name": "Python",
+    "hskill_descripion": "Linguagem de programação",
+    "hskill_time": 4,
+    "hskill_type1": "PROGRAMACAO",
+    "hskill_type2": "DADOS, CLOUD"
+  },
+  {
+    "hskill_name": "Django",
+    "hskill_descripion": "Framework para constução de sistemas Web",
+    "hskill_time": 3,
+    "hskill_type1": "PROGRAMACAO",
+    "hskill_type2": "WEB"
+  },
+  {
+    "hskill_name": "Windows NT Plataform",
+    "hskill_descripion": "Sistema Operacional de 80% do planeta",
+    "hskill_time": 8,
+    "hskill_type1": "INFRA",
+    "hskill_type2": "GERAL"
+  },
+  {
+    "hskill_name": "Windows Server",
+    "hskill_descripion": "Sistema Operacional de Servidores.",
+    "hskill_time": 8,
+    "hskill_type1": "INFRA",
+    "hskill_type2": "GERAL"
+  },
+  {
+    "hskill_name": "SQL",
+    "hskill_descripion": "Linguagem de consulta de dados.",
+    "hskill_time": 5,
+    "hskill_type1": "PROGRAMACAO",
+    "hskill_type2": "DADOS"
+  },
+  {
+    "hskill_name": "MS SQL Server",
+    "hskill_descripion": "SGBD da Microsoft",
+    "hskill_time": 5,
+    "hskill_type1": "PROGRAMACAO, INFRA",
+    "hskill_type2": "DADOS"
+  },
+  {
+    "hskill_name": "Pandas",
+    "hskill_descripion": "Biblioteca de Python para Análise e tratamento de dados.",
+    "hskill_time": 3,
+    "hskill_type1": "PROGRAMACAO",
+    "hskill_type2": "DADOS"
+  },
+    {
+    "hskill_name": "Seaborn",
+    "hskill_descripion": "Biblioteca de Python para Análise e criação de Gráficos",
+    "hskill_time": 3,
+    "hskill_type1": "PROGRAMACAO",
+    "hskill_type2": "DADOS, DATAVIZ"
+  },
+  {
+    "hskill_name": "Spark (pySpark)",
+    "hskill_descripion": "Biblioteca (eu uso em Python), para tratamentod e BIG DATA em clusters (Hadoop)",
+    "hskill_time": 1,
+    "hskill_type1": "PROGRAMACAO",
+    "hskill_type2": "DADOS"
+  },
+  {
+    "hskill_name": "AWS",
+    "hskill_descripion": "Cloud Pública da Amazon",
+    "hskill_time": 3,
+    "hskill_type1": "INFRAESTRUTURA",
+    "hskill_type2": "CLOUD"
+  },
+  {
+    "hskill_name": "AWS Glue",
+    "hskill_descripion": "Serviço (PaaS) da AWS para tratamento de dados, em formato Serverless",
+    "hskill_time": 1,
+    "hskill_type1": "INFRAESTRUTURA, PROGRAMCAO",
+    "hskill_type2": "DADOS, CLOUD"
+  },
+  {
+    "hskill_name": "AWS Athena",
+    "hskill_descripion": "Serviço (PaaS) da AWS para consultas em SQL de alto volume de dados",
+    "hskill_time": 1,
+    "hskill_type1": "INFRAESTRUTURA, PROGRAMCAO",
+    "hskill_type2": "DADOS, CLOUD"
+  },
+  {
+    "hskill_name": "AWS RedShift",
+    "hskill_descripion": "Serviço AWS para DataWarehouses de alta performance",
+    "hskill_time": 1,
+    "hskill_type1": "INFRAESTRUTURA, PROGRAMCAO",
+    "hskill_type2": "DADOS, CLOUD"
+  },
+  {
+    "hskill_name": "AWS DMS",
+    "hskill_descripion": "Serviço AWS para coleta de dados.",
+    "hskill_time": 1,
+    "hskill_type1": "INFRAESTRUTURA",
+    "hskill_type2": "DADOS, CLOUD"
+  },
+  {
+    "hskill_name": "Haddop/Hive",
+    "hskill_descripion": "Ecossistema de computação em cluster",
+    "hskill_time": 1,
+    "hskill_type1": "INFRAESTRUTURA, PROGRAMCAO",
+    "hskill_type2": "DADOS, CLOUD"
+  },
+  {
+    "hskill_name": "Azure",
+    "hskill_descripion": "Cloud Pública da Microsoft",
+    "hskill_time": 3,
+    "hskill_type1": "INFRAESTRUTURA",
+    "hskill_type2": "CLOUD"
+  },
+  {
+    "hskill_name": "Docker",
+    "hskill_descripion": "Framework para orquestração de conteiners",
+    "hskill_time": 3,
+    "hskill_type1": "INFRAESTRUTURA, PROGRAMCAO",
+    "hskill_type2": "DADOS, CLOUD"
+  },
+  {
+    "hskill_name": "JavaScript",
+    "hskill_descripion": "Linguagem de programação.",
+    "hskill_time": 3,
+    "hskill_type1": "PROGRAMCAO",
+    "hskill_type2": "WEB, CLOUD, DATAVIZ"
+  },
+  {
+    "hskill_name": "HTML",
+    "hskill_descripion": "Linguagem de programação",
+    "hskill_time": 5,
+    "hskill_type1": "PROGRAMCAO",
+    "hskill_type2": "WEB"
+  },
+  {
+    "hskill_name": "CSS",
+    "hskill_descripion": "Linguagem de Estilos complementar ao HTML",
+    "hskill_time": 5,
+    "hskill_type1": "PROGRAMCAO",
+    "hskill_type2": "WEB, DATAVIZ"
+  },
+  {
+    "hskill_name": "Redes",
+    "hskill_descripion": "Conhecimento em redes, roteamento, firewalls e roteadores",
+    "hskill_time": 5,
+    "hskill_type1": "INFRAESTRUTURA",
+    "hskill_type2": "REDES"
+  },
+  {
+    "hskill_name": "Linux",
+    "hskill_descripion": "Conhecimento em sistmas Linux DEB",
+    "hskill_time": 5,
+    "hskill_type1": "INFRAESTRUTURA",
+    "hskill_type2": "GERAL, CLOUD"
+  },
+  {
+    "hskill_name": "Power BI",
+    "hskill_descripion": "Ferramenta de construçao de Dashboards",
+    "hskill_time": 3,
+    "hskill_type1": "PROGRAMCAO",
+    "hskill_type2": "DADOS, DATAVIZ"
+  }
+]

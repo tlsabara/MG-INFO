@@ -1,0 +1,52 @@
+[
+  {
+    "pdata_name": "NOME_COMPLETO",
+    "pdata_description": "Somente meu nome",
+    "pdata_value": "Thiago Luca da Silva Sabará"
+  },
+  {
+    "pdata_name": "EMAIL",
+    "pdata_description": "Meu melhor email",
+    "pdata_value": "thi.sil.sab@gmail.com"
+  },
+  {
+    "pdata_name": "ENDERECO",
+    "pdata_description": "Meu endereco atual",
+    "pdata_value": "Rua Mica, 159, São Lucas, Belo Horizonte-MG"
+  },
+  {
+    "pdata_name": "TELEFONE",
+    "pdata_description": "Meu número.",
+    "pdata_value": "(31) 9 9324-3128"
+  },
+  {
+    "pdata_name": "LINKED_IN",
+    "pdata_description": "Endereço do linkedin",
+    "pdata_value": "https://www.linkedin.com/in/tlsabara/"
+  },
+  {
+    "pdata_name": "GITHUB",
+    "pdata_description": "End do Github",
+    "pdata_value": "https://github.com/tlsabara"
+  },
+  {
+    "pdata_name": "FRASE",
+    "pdata_description": "Uma Frase que gosto.",
+    "pdata_value": "\"It's impossible,\" said pride. \"It's risky,\" said experience. \"It's pointless,\" said reason. \"Give it a try,\" whispered the heart.\""
+  },
+  {
+    "pdata_name": "COR_PREFERIDA",
+    "pdata_description": "Uma cor que gosto",
+    "pdata_value": "PRETA"
+  },
+  {
+    "pdata_name": "DATA_NASCIMENTO",
+    "pdata_description": "Dia em que nasci.",
+    "pdata_value": "1992-06-02"
+  },
+  {
+    "pdata_name": "FOTO_PERFIL",
+    "pdata_description": "Minha Foto",
+    "pdata_value": "https://media.licdn.com/dms/image/D4D03AQHjprIP0yA_lQ/profile-displayphoto-shrink_200_200/0/1682626776160?e=1688601600&v=beta&t=EoIIDcB1uner_wbRlqL2oABnSTPs32MQWf8HHA6XQdQ"
+  }
+]
