@@ -1,0 +1,51 @@
+[
+  {
+    "course_name": "Big Data e Negócios",
+    "course_descripion": "Linguagem de programação que sou apaixonado, sem duúvida minha melhor habilidade",
+    "course_school": "Anhembi Morumbi",
+    "course_type": "Graduação",
+    "course_period": "02/2022 - 06/2024"
+  },
+  {
+    "course_name": "Curso de Python 3 do Básico Ao Avançado",
+    "course_descripion": "Curso de Python completo",
+    "course_school": "Udemy",
+    "course_type": "Curso",
+    "course_period": "140 horas"
+  },
+  {
+    "course_name": "ISO 27001: Construindo Políticas de Segurança da Informação",
+    "course_descripion": "Curso de segurança da informação com as normas da LGPD",
+    "course_school": "Udemy",
+    "course_type": "Curso",
+    "course_period": "5 horas"
+  },
+  {
+    "course_name": "Inteligência de Mercado e KPIs na Tomada de Decisão",
+    "course_descripion": "Curso de boas praticas e padrões de criação de KPIs",
+    "course_school": "Udemy",
+    "course_type": "Curso",
+    "course_period": "20 horas"
+  },
+  {
+    "course_name": "OPNsense: Firewall UTM open source",
+    "course_descripion": "Curso para Instalação e manutenção de firewalls OPNSense",
+    "course_school": "Udemy",
+    "course_type": "Curso",
+    "course_period": "140 horas"
+  },
+  {
+    "course_name": "Python RPA e Excel como automatizar Processos e Planilhas",
+    "course_descripion": "Curso de Python para processos de RPA e outras automações.",
+    "course_school": "Udemy",
+    "course_type": "Curso",
+    "course_period": "56 horas"
+  },
+  {
+    "course_name": "Real World Python Test Automation with Pytest (Django app)",
+    "course_descripion": "Curso de Python para desenvolvimento de testes em aplicações Django.",
+    "course_school": "Udemy",
+    "course_type": "Curso",
+    "course_period": "70 horas"
+  }
+]

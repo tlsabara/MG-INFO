@@ -235,5 +235,40 @@
     "hskill_time": 5,
     "hskill_type1": "PROGRAMACAO",
     "hskill_type2": "DADOS, WEB"
+  },
+  {
+    "hskill_name": "IPSEC",
+    "hskill_descripion": "VPN com alto padrão de segurança.",
+    "hskill_time": 5,
+    "hskill_type1": "INFRA",
+    "hskill_type2": "REDES, GERAL"
+  },
+  {
+    "hskill_name": "Active Directory",
+    "hskill_descripion": "Gerenciador de usuários do Windows Server.",
+    "hskill_time": 8,
+    "hskill_type1": "INFRA",
+    "hskill_type2": "CLOUD, REDES"
+  },
+  {
+    "hskill_name": "Samba4",
+    "hskill_descripion": "Gerenciador de usuários compatível com Active Directory.",
+    "hskill_time": 5,
+    "hskill_type1": "INFRA",
+    "hskill_type2": "CLOUD, GERAL"
+  },
+  {
+    "hskill_name": "Mikrotik",
+    "hskill_descripion": "Roteadores e Switches gerenciáveis.",
+    "hskill_time": 8,
+    "hskill_type1": "REDES",
+    "hskill_type2": "REDES, GERAL"
+  },
+  {
+    "hskill_name": "Cabeamento Estruturado",
+    "hskill_descripion": "Padrão para montagem e projetos de redes.",
+    "hskill_time": 5,
+    "hskill_type1": "INFRA",
+    "hskill_type2": "CLOUD, GERAL"
   }
 ]

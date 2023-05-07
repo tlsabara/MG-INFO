@@ -4,7 +4,7 @@ from datetime import datetime
 from sqlalchemy import Engine
 from sqlalchemy.orm import sessionmaker
 
-from db_creation import Experiences, HardSkills, PersonalData
+from db_creation import Experiences, HardSkills, PersonalData, Formation
 
 
 def fn_insert_personal_data(data_list: list, engi: Engine) -> bool:
@@ -68,3 +68,23 @@ def fn_insert_hard_skills(data_list: list, engi: Engine) -> bool:
 def fn_load_json(path_to_file: str):
     with open(path_to_file, encoding='utf-8', errors='ignore') as json_data:
         return json.load(json_data, strict=False)
+
+
+def fn_insert_formation(data_list: list, engi: Engine) -> bool:
+    try:
+        Session = sessionmaker(engi)
+        for i in data_list:
+            with Session.begin() as session:
+                session.add(Formation(
+                    course_name=i["course_name"],
+                    course_descripion=i["course_descripion"],
+                    course_school=i["course_school"],
+                    course_type=i["course_type"],
+                    course_period=i["course_period"],
+                ))
+                session.commit()
+    except Exception as e:
+        print(e)
+        return False
+    else:
+        return True

@@ -45,3 +45,15 @@ class Experiences(Base):
 
     def __repr__(self) -> str:
         return f"Experiences(id={self.id!r}, exp_company_name={self.data_name!r}, exp_company_role={self.data_value!r})"
+
+class Formation(Base):
+    __tablename__ = 'formation'
+    id: Mapped[int] = mapped_column(primary_key=True)
+    course_name = mapped_column(String(200))
+    course_descripion = mapped_column(String(200))
+    course_school = mapped_column(String(30))
+    course_type = mapped_column(String(30))
+    course_period = mapped_column(String(50))
+
+    def __repr__(self) -> str:
+        return f"Experiences(id={self.id!r}, exp_company_name={self.data_name!r}, exp_company_role={self.data_value!r})"
